@@ -1,0 +1,22 @@
+{
+  "name": "implementingterminel",
+  "version": "1.0.0",
+  "description": "Small Application to implement a terminel in the browser and test it.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "terminal-implementation"
+  },
+  "keywords": [
+    "xtermjs"
+  ],
+  "author": "Kanchana Jagodage",
+  "license": "ISC",
+  "dependencies": {
+    "packages": "^0.0.8",
+    "xterm": "^4.17.0"
+  }
+}
